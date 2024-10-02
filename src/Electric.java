@@ -13,7 +13,7 @@ public class Electric extends Pokemon {
     String type = "Electric";
 
     public void getType() {
-        System.out.println(getName() +" is a " + type +" type pokemon");
+        System.out.println(getName() +" is a " + type +" type pokemon.");
     }
 
     public void attacks() {

@@ -13,7 +13,7 @@ public class Fire extends Pokemon {
 
 
     public void getType() {
-        System.out.println(getName() +" is a" + type + "type pokemon");
+        System.out.println(getName() +" is a" + type + "type pokemon.");
     }
 
     public void attacks() {
