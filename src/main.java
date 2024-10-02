@@ -41,6 +41,7 @@ public class main {
         herbie.getType();
         herbie.setLevel(11);
         herbie.speaks();
+        herbie.setName("Grasshopper");
 
     }
 }

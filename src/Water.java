@@ -12,7 +12,7 @@ public class Water extends Pokemon {
     String type = "Water";
 
     public void getType() {
-        System.out.println(getName() +" is a " + type +" type pokemon");
+        System.out.println(getName() +" is a " + type +" type pokemon.");
     }
 
     public void attacks() {

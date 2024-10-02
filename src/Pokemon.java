@@ -32,5 +32,5 @@ abstract public class Pokemon {
     }
 
 public void speaks() {
-    System.out.println(name + " says " + species); }
+    System.out.println(name + " says: " + species); }
 }

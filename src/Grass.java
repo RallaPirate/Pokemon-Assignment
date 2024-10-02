@@ -13,7 +13,7 @@ public class Grass extends Pokemon {
     String type = "Grass";
 
     public void getType() {
-        System.out.println(getName() +" is a " + type +" type pokemon");
+        System.out.println(getName() +" is a " + type +" type .");
     }
 
     public void attacks() {
